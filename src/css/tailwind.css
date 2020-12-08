@@ -1,0 +1,11 @@
+.text-primary {
+    color: #DC2F02;
+}
+
+.text-secondary {
+    color: #E85D04;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
